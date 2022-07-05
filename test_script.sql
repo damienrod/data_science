@@ -1,3 +1,4 @@
 SELECT *
 FROM bizops.osfrom
-WHERE int <> 7;
+WHERE int <> 7
+AND city = 'tex';
